@@ -1,5 +1,5 @@
 ---
-title: ""Reproducible Research: Peer Assessment 2"
+title: "Reproducible Research: Peer Assessment 2"
 author: "Silvia Strathclyde"
 date: "27/01/2021"
 output: html_document
